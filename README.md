@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayaan Omair
 - 👀 I’m interested in becoming a Data Analyst/ Data Scientist
-- 🌱 I’m currently a graduate student at Texas A&M studying Data Science
+- 🌱 I graduated from Texas A&M University with a Master's degree in Data Science in December 2025 — Gig 'Em!
 - ⚡ Fun fact: Im a huge sports fan and my favorite NFL team is the Green Bay Packers
 
 <!---
